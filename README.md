@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=chanm5's&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 #### Welcome chanm5's github! :wave:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/opopqkr)     
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/opopqkr%2Fgjbae1212%2Fhit-counter)](https://github.com/opopqkr)     
              
 <br/>
 
