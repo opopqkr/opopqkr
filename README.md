@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> 
 </br>
+
+### :chart_with_upwards_trend: Ability
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opopqkr)](https://solved.ac/opopqkr/)
 </br>
 </br>
 
