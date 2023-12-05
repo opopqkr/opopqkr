@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=333333&height=120&section=header&text=chanm5's&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)  
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&section=header&text=chanm5's&fontColor=FF3399&fontSize=50&animation=fadeIn&fontAlignY=55)  
 
 #### 🔨 Teck Stacks 🔨
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
