@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&section=header&text=chanm5's&fontColor=FF3399&fontSize=50&animation=fadeIn&fontAlignY=55)  
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&section=header&text=Chanm5's&nbsp;Github!&fontColor=FF3399&fontSize=50&animation=fadeIn&fontAlignY=55)  
 
 #### 🔨 Tech stacks 🔨
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> 
-</br>
 </br>
 </br>
 
