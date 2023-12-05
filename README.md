@@ -1,8 +1,7 @@
 <div align="center"> 
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=333333&height=120&section=header&text=chanm5's&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)  
+  
 #### Welcome chanm5's github! :wave: 
-
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=333333&height=120&section=header&text=chanm5's&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)  
 
 ####  🔨 Teck Stacks 🔨
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -23,5 +22,5 @@
 </br>
 </br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/opopqkr&count_bg=%233DC8BB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+<a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/opopqkr&count_bg=%233DC8BB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false"> </a>
