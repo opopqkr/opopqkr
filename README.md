@@ -21,4 +21,4 @@
 </br>
 </div>
 
-<a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/opopqkr&count_bg=%233DC8BB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false"> </a>
+<a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/opopqkr&count_bg=%233DC8BB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visite&edge_flat=false"> </a>
